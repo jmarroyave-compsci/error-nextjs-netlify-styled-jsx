@@ -1,7 +1,6 @@
 {
   "name": "error-nextjs-netlify-styled-jsx",
-  "version": "9.1.3179-1",
-  "private": true,
+  "version": "0.1.0",
   "cacheDirectories": [
     ".next/cache"
   ],
