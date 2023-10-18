@@ -1,12 +1,12 @@
 {
-  "name": "jmarroyave-portfolio",
+  "name": "error-nextjs-netlify-styled-jsx",
   "version": "9.1.3179-1",
   "private": true,
   "cacheDirectories": [
     ".next/cache"
   ],
   "scripts": {
-    "dev": "BABEL_ENV=dev next dev",
+    "dev": "next dev",
     "build:prod": "next build"
   },
   "dependencies": {
