@@ -10,11 +10,11 @@
     "build:prod": "next build"
   },
   "dependencies": {
-    "next": "^13.5.5",
+    "next": "13.5.5",
     "react": "npm:@preact/compat@^18.2.0",
     "react-dom": "npm:@preact/compat@^18.2.0"
   },
   "devDependencies": {
-    "@netlify/plugin-nextjs": "^4.40.2"
+    "@netlify/plugin-nextjs": "4.40.2"
   }
 }
